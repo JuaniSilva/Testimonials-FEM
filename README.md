@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./PreView.png)
+![](./PageView.png)
 
 ### Links
 
