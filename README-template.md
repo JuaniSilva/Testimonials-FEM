@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo](https://github.com/JuaniSilva/NFT-Card-FEM)
-- Live Site URL: [Live Site](https://juanisilva.github.io/NFT-Card-FEM/)
+- Solution URL: [GitHub repo](https://github.com/JuaniSilva/Testimonials-FEM/settings/pages)
+- Live Site URL: [Live Site](https://juanisilva.github.io/Testimonials-FEM/)
 
 ## My process
 I started with reading the documentation of Tailwind to add it to this project, then, I searched for what ever I didn't know on their quick search tool to add the classes to the elements :D.
